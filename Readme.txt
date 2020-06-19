@@ -15,3 +15,4 @@
 9. 普通的 style 标签只支持 普通的样式，如果想要启用 scss 和 less，则需要为 style 元素，设置 lang 属性 格式为
    lang="scss"
 10. 注意：只要我们的 style 标签，是在 .vue 组件中定义的，那么，推荐都为 style 开启 scoped 属性
+11. 测试
